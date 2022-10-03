@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi visitor, I'm Jean Moirano!</h1>
 <p align="center">
+<img src="a.jpg" alt="logo" 'border-radius'="1rem"/><br>
 <a href="https://www.jm61.dev" target="_blank">jm61's Portfolio</a>
 </p>
 <h3 align="center">A senior involved in coding because it's an unlimited universe!</h3>
